@@ -1,0 +1,14 @@
+SQL> create table student_rest(sid number,sname varchar2(20),fee number,course varchar2(20),discount number );
+
+Table created.
+
+Commit complete.
+
+SQL> desc student_rest;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ SID                                                NUMBER
+ SNAME                                              VARCHAR2(20)
+ FEE                                                NUMBER
+ COURSE                                             VARCHAR2(20)
+ DISCOUNT                                           NUMBER

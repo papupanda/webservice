@@ -1,0 +1,32 @@
+SQL> create table product2(prodId number,prodCode varchar2(25),prodCost number,prodDisc number,prodGst number);
+
+Table created.
+
+SQL> desc product2;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ PRODID                                             NUMBER
+ PRODCODE                                           VARCHAR2(25)
+ PRODCOST                                           NUMBER
+ PRODDISC                                           NUMBER
+ PRODGST                                            NUMBER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
